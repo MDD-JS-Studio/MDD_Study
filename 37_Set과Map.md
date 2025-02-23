@@ -282,7 +282,7 @@ const map = new Map([
 ]);
 
 map.clear();
-console.log(map); // Map(0) {}
+console.log(map); // Map(0) { }
 ```
 
 <hr/>
